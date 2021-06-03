@@ -11,7 +11,7 @@ def subtract(x,y):
 
 #Multiply implement
 def multiply(x,y):
- pass 
+ return x*y #on feature branch 
 #Divide implement
 def divide(x,y):
  pass
